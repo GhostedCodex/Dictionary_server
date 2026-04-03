@@ -1,0 +1,6 @@
+# No third-party dependencies.
+# This project uses the Python standard library only:
+#   socket    — TCP networking
+#   threading — multi-threaded client handling
+#   json      — dictionary persistence
+#   os        — path resolution in config.py
