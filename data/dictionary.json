@@ -3,30 +3,30 @@
     "definition": "a greeting used when meeting someone",
     "added_at": "2026-03-31T10:56:30.703783+00:00",
     "updated_at": "2026-03-31T10:56:30.703783+00:00",
-    "last_searched_at": "2026-03-31T16:03:28.941683+00:00"
+    "last_searched_at": "2026-04-03T18:44:27.369932+00:00"
   },
   "server": {
     "definition": "a computer or program that provides services to other computers",
     "added_at": "2026-03-31T10:56:30.703806+00:00",
     "updated_at": "2026-03-31T10:56:30.703806+00:00",
-    "last_searched_at": "2026-03-31T16:03:28.968572+00:00"
+    "last_searched_at": "2026-04-03T18:44:27.384065+00:00"
   },
   "thread": {
     "definition": "a sequence of instructions that can run concurrently with others",
     "added_at": "2026-03-31T10:56:30.703810+00:00",
     "updated_at": "2026-03-31T10:56:30.703810+00:00",
-    "last_searched_at": "2026-03-31T16:03:28.975039+00:00"
+    "last_searched_at": "2026-04-03T18:44:27.393639+00:00"
   },
   "socket": {
     "definition": "an endpoint for sending and receiving data across a network",
     "added_at": "2026-03-31T10:56:30.703812+00:00",
     "updated_at": "2026-03-31T10:56:30.703812+00:00",
-    "last_searched_at": "2026-03-31T16:03:28.972218+00:00"
+    "last_searched_at": "2026-04-03T18:44:27.389620+00:00"
   },
   "mutex": {
     "definition": "a lock that prevents multiple threads from accessing a shared resource simultaneously",
     "added_at": "2026-03-31T10:56:30.703814+00:00",
     "updated_at": "2026-03-31T10:56:30.703814+00:00",
-    "last_searched_at": "2026-03-31T16:03:28.944724+00:00"
+    "last_searched_at": "2026-04-03T18:44:27.375840+00:00"
   }
 }
