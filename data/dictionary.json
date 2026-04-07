@@ -1,32 +1,4454 @@
 {
-  "hello": {
-    "definition": "a greeting used when meeting someone",
-    "added_at": "2026-03-31T10:56:30.703783+00:00",
-    "updated_at": "2026-03-31T10:56:30.703783+00:00",
-    "last_searched_at": "2026-04-06T19:50:04.574325+00:00"
+  "abandon": {
+    "definition": "to leave completely and finally; to desert or give up",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": "2026-04-07T10:00:42.616797+00:00"
+  },
+  "abash": {
+    "definition": "to embarrass or shame someone; to make self-conscious",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "abbreviate": {
+    "definition": "to shorten a word or phrase by omitting letters or words",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "abduct": {
+    "definition": "to take someone away by force or deception",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "aberrant": {
+    "definition": "departing from an accepted standard; atypical or unusual",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "abhor": {
+    "definition": "to regard with disgust and hatred; to detest strongly",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "abide": {
+    "definition": "to accept or act in accordance with a rule or decision",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "abolish": {
+    "definition": "to formally put an end to a system, practice, or institution",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "abrupt": {
+    "definition": "sudden and unexpected; brief to the point of being rude",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "abstain": {
+    "definition": "to restrain oneself from doing or enjoying something",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "abstract": {
+    "definition": "existing in thought or as an idea rather than having physical existence",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "absurd": {
+    "definition": "wildly unreasonable or illogical; ridiculously incongruous",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "abundant": {
+    "definition": "existing or available in large quantities; plentiful",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "accelerate": {
+    "definition": "to begin to move more quickly; to increase in rate or speed",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "accessible": {
+    "definition": "able to be reached or entered; easily understood",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "accommodate": {
+    "definition": "to provide lodging or space for; to adapt or adjust",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "accurate": {
+    "definition": "correct in all details; free from errors",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "acknowledge": {
+    "definition": "to accept or admit the existence of; to recognize",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "acquire": {
+    "definition": "to buy or obtain an asset or object; to learn or develop a skill",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "adamant": {
+    "definition": "refusing to be persuaded or to change one's mind; unyielding",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "adapt": {
+    "definition": "to make suitable for a new use or purpose; to adjust to new conditions",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "adjacent": {
+    "definition": "next to or adjoining something else; neighboring",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "adversity": {
+    "definition": "a difficult or unpleasant situation; misfortune or hardship",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "advocate": {
+    "definition": "to publicly recommend or support; a person who pleads on behalf of another",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "aesthetic": {
+    "definition": "concerned with beauty or the appreciation of beauty",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "affable": {
+    "definition": "friendly, good-natured, and easy to talk to",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "affirm": {
+    "definition": "to state emphatically or publicly; to offer emotional support",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "affluent": {
+    "definition": "having a great deal of money; wealthy",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "aggregate": {
+    "definition": "a whole formed by combining several separate elements",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "agile": {
+    "definition": "able to move quickly and easily; mentally quick and resourceful",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "alleviate": {
+    "definition": "to make suffering, deficiency, or a problem less severe",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "allocate": {
+    "definition": "to distribute resources or duties for a particular purpose",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "aloof": {
+    "definition": "not friendly or forthcoming; cool and distant",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "altruistic": {
+    "definition": "showing a disinterested and selfless concern for others",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "ambiguous": {
+    "definition": "open to more than one interpretation; not having one obvious meaning",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "ambivalent": {
+    "definition": "having mixed feelings or contradictory ideas about something",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "ameliorate": {
+    "definition": "to make something bad or unsatisfactory better",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "amiable": {
+    "definition": "having a friendly and pleasant manner; good-natured",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "amplify": {
+    "definition": "to increase the volume or strength of; to make more intense",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "analogy": {
+    "definition": "a comparison between two things for the purpose of explanation",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "anarchist": {
+    "definition": "a person who believes in the abolition of all government",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "anecdote": {
+    "definition": "a short amusing or interesting story about a real incident or person",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "animate": {
+    "definition": "to bring to life; to give movement to; full of life and excitement",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "annihilate": {
+    "definition": "to destroy utterly; to obliterate completely",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "antagonist": {
+    "definition": "a person who actively opposes another; the villain in a story",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "anticipate": {
+    "definition": "to regard as probable; to expect or predict",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "antiquated": {
+    "definition": "old-fashioned or outdated; no longer applicable to modern times",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "apathy": {
+    "definition": "lack of interest, enthusiasm, or concern; indifference",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "appease": {
+    "definition": "to relieve or satisfy a demand or feeling; to placate",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "appropriate": {
+    "definition": "suitable or proper in the circumstances; to take for one's own use",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "approximate": {
+    "definition": "close to the actual but not completely accurate",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "arbitrary": {
+    "definition": "based on random choice rather than reason or system",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "archaic": {
+    "definition": "very old or old-fashioned; belonging to an earlier period",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "arduous": {
+    "definition": "involving or requiring strenuous effort; difficult and tiring",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "articulate": {
+    "definition": "expressing oneself clearly and effectively; to pronounce clearly",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "aspire": {
+    "definition": "to direct one's hopes toward achieving something great",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "assiduous": {
+    "definition": "showing great care and perseverance; diligent",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "assuage": {
+    "definition": "to make an unpleasant feeling less intense; to soothe",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "astute": {
+    "definition": "having an ability to accurately assess situations; shrewd",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "atrophy": {
+    "definition": "gradually decline in effectiveness; waste away due to disuse",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "audacious": {
+    "definition": "showing a willingness to take surprisingly bold risks; impudent",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "austere": {
+    "definition": "severe or strict in manner; morally strict; having no comforts",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "authentic": {
+    "definition": "of undisputed origin and not a copy; genuine",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "autonomy": {
+    "definition": "the right or condition of self-government; independence",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "avert": {
+    "definition": "to turn away one's eyes; to prevent something bad from occurring",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "avid": {
+    "definition": "having or showing a keen interest in or enthusiasm for something",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "axiom": {
+    "definition": "a statement taken to be true as the basis for further reasoning",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "baffle": {
+    "definition": "to totally bewilder someone; to restrain or regulate flow",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "benevolent": {
+    "definition": "well meaning and kindly; generous in giving to others",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "bewildering": {
+    "definition": "causing one to become perplexed and confused",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "biased": {
+    "definition": "unfairly prejudiced for or against someone or something",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "blatant": {
+    "definition": "completely lacking in subtlety; very obvious",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "boisterous": {
+    "definition": "noisy, energetic, and cheerful; rowdy",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "brevity": {
+    "definition": "concise and exact use of words; shortness of time",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "broaden": {
+    "definition": "to become larger; to extend one's range of knowledge",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "bureaucracy": {
+    "definition": "a system of government with complex rules and procedures",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "buttress": {
+    "definition": "a projecting support built against a wall; to support or strengthen",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "calamity": {
+    "definition": "an event causing great damage or distress; a disaster",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "candid": {
+    "definition": "truthful and straightforward; frank and honest",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "capricious": {
+    "definition": "given to sudden changes of mood or behavior; unpredictable",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "catalyst": {
+    "definition": "a substance increasing the rate of a reaction without being consumed",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "catastrophe": {
+    "definition": "an event causing great suffering and destruction",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "caustic": {
+    "definition": "able to burn through things by chemical action; sarcastic",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "censure": {
+    "definition": "to express severe disapproval in a formal statement",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "chastise": {
+    "definition": "to rebuke or reprimand severely; to punish physically",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "chronic": {
+    "definition": "persisting for a long time or recurring constantly",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "clandestine": {
+    "definition": "kept secret or done secretively, especially for illicit reasons",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "coerce": {
+    "definition": "to persuade someone to do something by using force or threats",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "cogent": {
+    "definition": "clear, logical, and convincing; forceful and to the point",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "collaborate": {
+    "definition": "to work jointly with others on a project",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "commemorate": {
+    "definition": "to recall and show respect for someone or something in a ceremony",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "compassion": {
+    "definition": "sympathetic pity and concern for others' sufferings",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "compelling": {
+    "definition": "evoking interest or admiration in a powerfully irresistible way",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "complex": {
+    "definition": "consisting of many different and connected parts; intricate",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "concede": {
+    "definition": "to admit that something is true after initially denying it",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "condemn": {
+    "definition": "to express complete disapproval; to sentence to a punishment",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "conformity": {
+    "definition": "compliance with standards, rules, or laws; similarity",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "congenial": {
+    "definition": "pleasant because of personality qualities or interests similar to one's own",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "conjecture": {
+    "definition": "an opinion formed without proof or sufficient evidence",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "conscientious": {
+    "definition": "wishing to do one's work thoroughly and correctly; meticulous",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "consensus": {
+    "definition": "general agreement among a group of people",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "contemplate": {
+    "definition": "to look thoughtfully at something; to think carefully about",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "contentious": {
+    "definition": "causing or likely to cause an argument; controversial",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "contradict": {
+    "definition": "to deny the truth of a statement; to be incompatible with",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "controversial": {
+    "definition": "giving rise or likely to give rise to public disagreement",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "convey": {
+    "definition": "to transport or carry to a place; to communicate or express",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "conviction": {
+    "definition": "a firmly held belief; a formal declaration that someone is guilty",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "copious": {
+    "definition": "abundant in supply or quantity; plentiful",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "counterintuitive": {
+    "definition": "contrary to what would intuitively be expected",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "credible": {
+    "definition": "able to be believed; convincing",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "culminate": {
+    "definition": "to reach a climax or point of highest development",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "cunning": {
+    "definition": "having or showing skill in achieving one's ends by deceit",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "cynical": {
+    "definition": "believing that people are motivated purely by self-interest",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "dauntless": {
+    "definition": "showing fearlessness and determination; intrepid",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "debilitate": {
+    "definition": "to make someone very weak and infirm",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "deceptive": {
+    "definition": "giving an appearance or impression different from the true one",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "decisive": {
+    "definition": "settling an issue; producing a definite result",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "decorum": {
+    "definition": "behavior in keeping with good taste and propriety",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "defer": {
+    "definition": "to put off an action to a later time; to yield to another's wishes",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "deliberate": {
+    "definition": "done consciously and intentionally; slow and careful",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "delinquent": {
+    "definition": "failing to perform a duty; a person who commits offenses",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "denounce": {
+    "definition": "to publicly declare as wrong; to inform against someone",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "depict": {
+    "definition": "to represent by a drawing or painting; to describe in words",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "deplete": {
+    "definition": "to use up the supply of a resource; to exhaust",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "derive": {
+    "definition": "to obtain something from a source; to arise from",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "deter": {
+    "definition": "to discourage someone from doing something by instilling doubt",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "detrimental": {
+    "definition": "tending to cause harm; damaging",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "deviate": {
+    "definition": "to depart from an established course or standard",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "diligent": {
+    "definition": "having or showing care and effort in one's work",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "discern": {
+    "definition": "to recognize or find out; to distinguish with difficulty",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "discord": {
+    "definition": "disagreement between people; lack of harmony in sounds",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "disparate": {
+    "definition": "essentially different in kind; not allowing comparison",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "dispute": {
+    "definition": "a disagreement or argument; to question the truth or validity of",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "disrupt": {
+    "definition": "to interrupt the normal progress of; to cause disorder",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "divert": {
+    "definition": "to cause to change course; to distract from",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "doctrine": {
+    "definition": "a belief held and taught by a church, political party, or group",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "dominant": {
+    "definition": "most important, powerful, or influential; most prominent",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "dynamic": {
+    "definition": "characterized by constant change, activity, or progress",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "eccentric": {
+    "definition": "unconventional and slightly strange; deviating from the norm",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "elaborate": {
+    "definition": "involving many carefully arranged parts; to add more detail",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "eloquent": {
+    "definition": "fluent or persuasive in speaking or writing",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "eminent": {
+    "definition": "respected and distinguished within a particular sphere",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "empirical": {
+    "definition": "based on observation or experience rather than theory",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "endeavor": {
+    "definition": "to try hard to do or achieve something; an attempt to achieve a goal",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "endure": {
+    "definition": "to suffer patiently; to remain in existence; to last",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "enhance": {
+    "definition": "to intensify, increase, or improve the quality of",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "enlighten": {
+    "definition": "to give greater knowledge and understanding; to inform",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "enormous": {
+    "definition": "very large in size, quantity, or extent; huge",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "erratic": {
+    "definition": "not regular or even; unpredictable in behavior",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "essence": {
+    "definition": "the intrinsic nature of something; a property without which it loses identity",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "ethical": {
+    "definition": "relating to moral principles; morally correct",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "evolve": {
+    "definition": "to develop gradually over time; to work out or develop",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "exacerbate": {
+    "definition": "to make a problem or bad situation worse",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "exemplary": {
+    "definition": "serving as a desirable model; representing the best of its kind",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "exhaustive": {
+    "definition": "including or considering all elements; thorough",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "explicit": {
+    "definition": "stated clearly and in detail; leaving no room for doubt",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "exploit": {
+    "definition": "to make use of unfairly for one's own ends; a bold achievement",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "exuberant": {
+    "definition": "filled with or characterized by lively energy and excitement",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "fallacy": {
+    "definition": "a mistaken belief; a failure in reasoning that makes an argument invalid",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "fanatic": {
+    "definition": "a person filled with excessive enthusiasm for a cause",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "feasible": {
+    "definition": "possible to do easily or conveniently; likely or probable",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "feeble": {
+    "definition": "lacking physical strength; failing to convince or impress",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "ferocious": {
+    "definition": "savagely fierce, cruel, and violent",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "fervent": {
+    "definition": "having or displaying a passionate intensity; earnest",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "fidelity": {
+    "definition": "faithfulness to a person, cause, or belief; accuracy",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "flourish": {
+    "definition": "to grow or develop in a healthy way; to wave dramatically",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "fluctuate": {
+    "definition": "to rise and fall irregularly in number or amount",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "formidable": {
+    "definition": "inspiring fear or respect through being impressively large or capable",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "forthright": {
+    "definition": "direct and outspoken; straightforward and honest",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "foster": {
+    "definition": "to encourage the development of; to take care of a child not one's own",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "fragile": {
+    "definition": "easily broken or damaged; vulnerable; not robust",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "frugal": {
+    "definition": "sparing or economical with food or money; simple and plain",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "fundamental": {
+    "definition": "forming a necessary base; of central importance",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "generate": {
+    "definition": "to produce or create; to cause something to arise",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "genuine": {
+    "definition": "truly what it is said to be; authentic; sincere",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "global": {
+    "definition": "relating to the whole world; comprehensive",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "gracious": {
+    "definition": "courteous, kind, and pleasant; showing elegance and good taste",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "gratitude": {
+    "definition": "the quality of being thankful; appreciation for what one receives",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "gregarious": {
+    "definition": "fond of company; living in flocks or loosely organized communities",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "grievous": {
+    "definition": "very severe or serious; causing great pain or distress",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "groundbreaking": {
+    "definition": "innovative and pioneering; introducing new ideas",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "guile": {
+    "definition": "sly or cunning intelligence; craftiness",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "hamper": {
+    "definition": "to hinder or impede the movement of; a large basket with a lid",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "harmonious": {
+    "definition": "forming a pleasing whole; free from disagreement",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "hasty": {
+    "definition": "done with excessive speed or urgency; acting with haste",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "haughty": {
+    "definition": "arrogantly superior and disdainful",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "hazardous": {
+    "definition": "risky; dangerous; involving risk of loss or harm",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "hegemony": {
+    "definition": "leadership or dominance of one country or group over others",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "heretical": {
+    "definition": "relating to beliefs contrary to orthodox religious doctrine",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "hierarchy": {
+    "definition": "a system in which people are ranked according to relative status",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "hostile": {
+    "definition": "unfriendly; opposed; relating to an enemy",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "hypothetical": {
+    "definition": "based on a hypothesis; imagined or suggested but not real",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "ideological": {
+    "definition": "relating to or based on a system of ideas and ideals",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "illuminate": {
+    "definition": "to light up; to make clear or explain; to enlighten",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "imminent": {
+    "definition": "about to happen; impending",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "impartial": {
+    "definition": "treating all rivals equally; fair and just",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "imperative": {
+    "definition": "of vital importance; an essential or urgent thing",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "implement": {
+    "definition": "to put into effect; a tool or piece of equipment",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "implicit": {
+    "definition": "suggested though not directly expressed; absolute and unquestioning",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "impulsive": {
+    "definition": "acting or done without forethought; driven by impulse",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "inadvertent": {
+    "definition": "not resulting from deliberate intention; accidental",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "inclined": {
+    "definition": "having a tendency to do something; willing to do something",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "indifferent": {
+    "definition": "having no particular interest or concern; mediocre",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "indisputable": {
+    "definition": "unable to be challenged or denied; unquestionable",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "inevitable": {
+    "definition": "certain to happen; unavoidable",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "infer": {
+    "definition": "to deduce from evidence and reasoning",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "inhibit": {
+    "definition": "to hinder, restrain, or prevent an action",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "innovative": {
+    "definition": "featuring new methods; advanced and original",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "integrity": {
+    "definition": "the quality of being honest and having strong moral principles",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "interpret": {
+    "definition": "to explain the meaning of; to understand in a particular way",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "intuitive": {
+    "definition": "using or based on what one feels to be true; instinctive",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "irrefutable": {
+    "definition": "impossible to deny or disprove; indisputable",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "jeopardize": {
+    "definition": "to put someone or something at risk; to endanger",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "juxtapose": {
+    "definition": "to place two things close together for contrasting effect",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "keen": {
+    "definition": "having a sharp edge; eager; intellectually sharp",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "kindle": {
+    "definition": "to light or set on fire; to arouse or inspire a feeling",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "laborious": {
+    "definition": "requiring considerable time and effort; not natural or fluent",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "lament": {
+    "definition": "to feel or express sorrow; a passionate expression of grief",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "latent": {
+    "definition": "existing but not yet developed or manifest; hidden",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "legitimate": {
+    "definition": "conforming to the law or to rules; able to be defended",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "lucid": {
+    "definition": "expressed clearly; easy to understand; fully conscious",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "lure": {
+    "definition": "to tempt a person to do something; something used as bait",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "magnanimous": {
+    "definition": "generous or forgiving, especially toward an enemy",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "malicious": {
+    "definition": "intending to do harm; wicked",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "manifest": {
+    "definition": "clear and obvious; to display or show a quality clearly",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "meticulous": {
+    "definition": "showing great attention to detail; precise and careful",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "mitigate": {
+    "definition": "to lessen the gravity of an offense; to make less severe",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "mobilize": {
+    "definition": "to organize and encourage to act; to prepare for military service",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "moderate": {
+    "definition": "average in amount, strength, or degree; not extreme",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "monotonous": {
+    "definition": "dull and tedious due to lack of variety; repeated without change",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "mutual": {
+    "definition": "experienced or done by two or more parties equally",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "narrate": {
+    "definition": "to give a spoken or written account of; to tell a story",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "negligent": {
+    "definition": "failing to take proper care; lacking attention",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "negotiate": {
+    "definition": "to try to reach an agreement through discussion",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "neutral": {
+    "definition": "not supporting either side; having no strongly marked characteristics",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "nuance": {
+    "definition": "a subtle difference in meaning or expression",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "objective": {
+    "definition": "not influenced by personal feelings; a goal or aim",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "obsolete": {
+    "definition": "no longer produced or used; out of date",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "obstinate": {
+    "definition": "stubbornly refusing to change one's opinion; persistent",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "ominous": {
+    "definition": "giving the impression that something bad is about to happen",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "opportunistic": {
+    "definition": "taking advantage of opportunities as they arise",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "optimistic": {
+    "definition": "hopeful and confident about the future",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "orthodox": {
+    "definition": "conforming to what is generally or traditionally accepted",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "paradox": {
+    "definition": "a statement that contradicts itself but may nonetheless be true",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "paramount": {
+    "definition": "more important than anything else; supreme",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "passive": {
+    "definition": "accepting without resistance; not participating actively",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "perceptive": {
+    "definition": "having or showing sensitive insight; observant",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "persistent": {
+    "definition": "continuing despite obstacles; enduring",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "pessimistic": {
+    "definition": "tending to see the worst aspects of things; gloomy",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "phenomenon": {
+    "definition": "a remarkable fact or event; a thing that appears or is perceived",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "pragmatic": {
+    "definition": "dealing with things sensibly and realistically",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "precarious": {
+    "definition": "dependent on chance; uncertain; dangerously insecure",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "precedent": {
+    "definition": "an earlier event used as a guide for the future",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "precise": {
+    "definition": "marked by exactness and accuracy; sharply exact",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "predominant": {
+    "definition": "present as the strongest element; having authority",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "prevalent": {
+    "definition": "widespread in a particular area; commonly occurring",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "profound": {
+    "definition": "very great or intense; having great knowledge or insight",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "progressive": {
+    "definition": "favoring reform or new ideas; happening gradually",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "propaganda": {
+    "definition": "information used to promote a particular political cause",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "prototype": {
+    "definition": "a first or preliminary model; an original on which copies are based",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "prudent": {
+    "definition": "acting with care and thought for the future; wise",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "radical": {
+    "definition": "relating to the root of something; advocating complete political reform",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "rational": {
+    "definition": "based on reason and logic; able to think clearly",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "reckless": {
+    "definition": "without thinking of the consequences; heedless of danger",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "reconcile": {
+    "definition": "to restore friendly relations; to make consistent with each other",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "redundant": {
+    "definition": "not or no longer needed; using more words than necessary",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "reinforce": {
+    "definition": "to strengthen; to support or strengthen with additional material",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "relentless": {
+    "definition": "unceasingly intense; not giving up",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "repercussion": {
+    "definition": "an unintended consequence of an event; a recoil after impact",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "resilient": {
+    "definition": "able to withstand or recover quickly from difficult conditions",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "resourceful": {
+    "definition": "having the ability to find solutions in difficult situations",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "reticent": {
+    "definition": "not revealing one's thoughts or feelings readily; reserved",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "rhetoric": {
+    "definition": "the art of effective speaking or writing; language designed to persuade",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "rigorous": {
+    "definition": "extremely thorough; careful and accurate",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "robust": {
+    "definition": "strong and healthy; vigorous; able to withstand stress",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "sabotage": {
+    "definition": "to deliberately destroy or damage; an act of destruction",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "scrutinize": {
+    "definition": "to examine or inspect closely and thoroughly",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "skeptical": {
+    "definition": "not easily convinced; having doubts; questioning",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "sophisticated": {
+    "definition": "having a refined knowledge of the world; complex and advanced",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "spontaneous": {
+    "definition": "performed without premeditation; open and natural",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "steadfast": {
+    "definition": "resolutely firm and unwavering; loyal and dependable",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "stimulate": {
+    "definition": "to raise levels of activity in; to encourage interest",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "subsequent": {
+    "definition": "coming after something in time; following",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "substantial": {
+    "definition": "of considerable importance, size, or value; solid and strong",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "subtle": {
+    "definition": "so delicate as to be difficult to analyze; making fine distinctions",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "suppress": {
+    "definition": "to put an end to forcibly; to prevent from being known",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "sustain": {
+    "definition": "to strengthen or support; to supply with necessities; to endure",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "systematic": {
+    "definition": "done according to a fixed plan or system; methodical",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "tactful": {
+    "definition": "having a keen sense of what to say to avoid offense",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "tedious": {
+    "definition": "too long, slow, or dull; tiresome or monotonous",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "tenacious": {
+    "definition": "tending to keep a firm hold; persistent and determined",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "tentative": {
+    "definition": "done without confidence; hesitant; not definite",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "thorough": {
+    "definition": "complete with regard to every detail; not superficial",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "tolerant": {
+    "definition": "showing willingness to allow the existence of opinions one dislikes",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "transcend": {
+    "definition": "to be or go beyond the range of; to be greater than",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "transparent": {
+    "definition": "easy to perceive or detect; honest and open",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "turbulent": {
+    "definition": "characterized by conflict or confusion; moving unsteadily",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "ubiquitous": {
+    "definition": "present, appearing, or found everywhere",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "undermine": {
+    "definition": "to damage or weaken gradually; to erode the base of",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "uniform": {
+    "definition": "remaining the same in all cases; consistent; an identifying outfit",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "unprecedented": {
+    "definition": "never done or known before; novel",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "urgent": {
+    "definition": "requiring immediate action or attention; earnest",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "validate": {
+    "definition": "to check or prove the validity of; to confirm",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "vehement": {
+    "definition": "showing strong feeling; forceful, passionate, or intense",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "versatile": {
+    "definition": "able to adapt to many different functions; having many uses",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "vibrant": {
+    "definition": "full of energy and enthusiasm; bright and striking",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "vigilant": {
+    "definition": "keeping careful watch for possible danger; alert",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "vivid": {
+    "definition": "producing powerful feelings; intensely deep or bright",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "volatile": {
+    "definition": "liable to change rapidly and unpredictably; explosive",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "vulnerable": {
+    "definition": "exposed to the possibility of being attacked or harmed",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "wary": {
+    "definition": "feeling or showing caution about possible dangers",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "whimsical": {
+    "definition": "playfully quaint or fanciful; acting on a whim",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "wisdom": {
+    "definition": "the quality of having experience and good judgment",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "wistful": {
+    "definition": "having or showing a feeling of vague longing; pensively sad",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "wretched": {
+    "definition": "in a very unhappy or unfortunate state; of poor quality",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "zealous": {
+    "definition": "having or showing great energy for a cause or objective",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "zenith": {
+    "definition": "the highest point; the point in the sky directly overhead",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "algorithm": {
+    "definition": "a process or set of rules followed in problem-solving or calculations",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "anatomy": {
+    "definition": "the branch of science dealing with the structure of organisms",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "asteroid": {
+    "definition": "a small rocky body orbiting the sun",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "atmosphere": {
+    "definition": "the envelope of gases surrounding a planet",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "atom": {
+    "definition": "the smallest unit of a chemical element, consisting of a nucleus and electrons",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "bandwidth": {
+    "definition": "the range of frequencies used for signal transmission; data capacity",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "binary": {
+    "definition": "relating to a system with two components; base-2 number system",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "biodiversity": {
+    "definition": "the variety of plant and animal life in a habitat",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "biome": {
+    "definition": "a large naturally occurring community of flora and fauna",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "byte": {
+    "definition": "a unit of digital information consisting of eight bits",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "cache": {
+    "definition": "a collection of stored data for quick access; to store in a hidden place",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "centrifugal": {
+    "definition": "moving away from a center of rotation",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "chromosome": {
+    "definition": "a thread-like structure carrying genetic information in the cell nucleus",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "circuit": {
+    "definition": "a closed loop through which electrical current flows",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "climate": {
+    "definition": "the weather conditions prevailing in an area over a long period",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "compilation": {
+    "definition": "the action of producing a list or book by assembling information",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "compiler": {
+    "definition": "a program that converts code from one language to another",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "computation": {
+    "definition": "the action of mathematical calculation; use of a computer",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "condenser": {
+    "definition": "an apparatus for condensing vapor; a lens focusing light",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "conductor": {
+    "definition": "a material transmitting heat or electricity; a person leading an orchestra",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "constellation": {
+    "definition": "a group of stars forming a recognizable pattern",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "corrosion": {
+    "definition": "the process of being destroyed slowly by chemical action",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "cryptography": {
+    "definition": "the art of writing or solving codes; securing communications",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "database": {
+    "definition": "a structured set of data held in a computer",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "debug": {
+    "definition": "to identify and remove errors from computer hardware or software",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "deforestation": {
+    "definition": "the clearing of a wide area of trees",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "density": {
+    "definition": "the degree of compactness; mass per unit volume",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "diffusion": {
+    "definition": "the spreading of something more widely; movement of particles",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "ecosystem": {
+    "definition": "a biological community of interacting organisms and their environment",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "electrode": {
+    "definition": "a conductor through which electricity enters or leaves a component",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "electromagnetic": {
+    "definition": "relating to the interrelation of electric and magnetic fields",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "encryption": {
+    "definition": "the process of converting information into a coded form",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "entropy": {
+    "definition": "a measure of disorder or randomness in a system",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "enzyme": {
+    "definition": "a substance produced by a living organism that acts as a catalyst",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "equilibrium": {
+    "definition": "a state of physical balance; a state in which opposing forces are equal",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "evolution": {
+    "definition": "the gradual development of something; natural selection over generations",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "exoplanet": {
+    "definition": "a planet orbiting a star outside the solar system",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "fermentation": {
+    "definition": "the chemical breakdown of a substance by bacteria, yeasts, or moulds",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "fiber optic": {
+    "definition": "relating to the use of thin glass fibers to transmit data as light",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "firmware": {
+    "definition": "permanent software programmed into read-only memory",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "fossil": {
+    "definition": "the remains of a prehistoric organism preserved in rock",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "frequency": {
+    "definition": "the rate at which something occurs; the number of cycles per second",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "friction": {
+    "definition": "the resistance that one surface encounters when moving over another",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "galaxy": {
+    "definition": "a system of millions of stars held together by gravitational attraction",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "gene": {
+    "definition": "a unit of heredity transferred from parent to offspring",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "genome": {
+    "definition": "the complete set of genes in an organism",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "geothermal": {
+    "definition": "relating to heat produced within the earth",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "gravitational": {
+    "definition": "relating to gravity; the force that attracts objects toward each other",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "habitat": {
+    "definition": "the natural home or environment of an animal, plant, or other organism",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "hardware": {
+    "definition": "the physical components of a computer system",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "hibernate": {
+    "definition": "to spend winter in a dormant state; to suspend a computer session",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "hologram": {
+    "definition": "a three-dimensional image formed by laser light interference",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "hormone": {
+    "definition": "a regulatory substance produced in an organism and transported in tissue fluids",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "humidity": {
+    "definition": "the state of the atmosphere with respect to water vapor",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "hybrid": {
+    "definition": "the offspring of two different species; something of mixed origin",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "hydraulic": {
+    "definition": "relating to the conveyance of liquids through pipes under pressure",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "inertia": {
+    "definition": "a tendency to do nothing; resistance to change in motion",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "infrared": {
+    "definition": "relating to electromagnetic radiation with wavelengths longer than visible light",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "insulation": {
+    "definition": "the action of insulating; material used to insulate something",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "interface": {
+    "definition": "a point where two systems meet and interact",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "ion": {
+    "definition": "an atom or molecule with a net electric charge",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "isotope": {
+    "definition": "each of two or more atoms with the same atomic number but different mass",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "kernel": {
+    "definition": "the central part of an operating system; the seed of a nut or fruit",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "kinetic": {
+    "definition": "relating to or resulting from motion",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "laser": {
+    "definition": "a device that generates an intense narrow beam of coherent light",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "latency": {
+    "definition": "the delay before a transfer of data begins following an instruction",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "magnetic": {
+    "definition": "having the properties of a magnet; very attractive or alluring",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "membrane": {
+    "definition": "a thin pliable sheet of material forming a barrier",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "metabolism": {
+    "definition": "the chemical processes in an organism to maintain life",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "microprocessor": {
+    "definition": "an integrated circuit containing the functions of a central processing unit",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "molecule": {
+    "definition": "a group of atoms bonded together representing the smallest unit of a compound",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "momentum": {
+    "definition": "the quantity of motion of a moving body; driving force",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "mutation": {
+    "definition": "a change in the structure of a gene; a sudden divergence from the norm",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "nanotechnology": {
+    "definition": "technology on an atomic or molecular scale",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "neuron": {
+    "definition": "a nerve cell that transmits electrical impulses",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "nucleus": {
+    "definition": "the central part of an atom; a cell's control center containing DNA",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "optics": {
+    "definition": "the branch of physics relating to the study of light",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "orbit": {
+    "definition": "the curved path of a celestial object; to move in such a path",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "osmosis": {
+    "definition": "the process by which molecules pass through a membrane",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "oxidation": {
+    "definition": "the process of combining with oxygen; the loss of electrons",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "parallelism": {
+    "definition": "the state of being parallel; simultaneous processing in computing",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "parameter": {
+    "definition": "a limit or boundary; a variable in a mathematical or computer function",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "photon": {
+    "definition": "a particle representing a quantum of light",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "photosynthesis": {
+    "definition": "the process by which plants make food using sunlight and carbon dioxide",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "plasma": {
+    "definition": "the fourth state of matter; the liquid part of blood",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "polymorphism": {
+    "definition": "the occurrence of different forms in an organism; multiple forms in code",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "precipitation": {
+    "definition": "rain, snow, or hail falling from the sky; a sudden occurrence",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "predator": {
+    "definition": "an animal that hunts and kills other animals for food",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "protein": {
+    "definition": "a large molecule essential to the structure and function of all living cells",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "protocol": {
+    "definition": "a set of rules governing exchange of data between devices",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "quantum": {
+    "definition": "a discrete amount of energy; the minimum amount of any physical entity",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "radiation": {
+    "definition": "energy emitted as electromagnetic waves; particles emitted by radioactive substance",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "recursion": {
+    "definition": "the repeated application of a procedure to successive results",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "refraction": {
+    "definition": "the bending of a wave as it passes from one medium to another",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "relativity": {
+    "definition": "the theory that measurements of time and space depend on the observer",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "renewable": {
+    "definition": "a natural resource that is replenished naturally and over time",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "resonance": {
+    "definition": "the reinforcement of vibration; a quality of evoking response",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "satellite": {
+    "definition": "an artificial body placed in orbit; a smaller country dependent on a larger one",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "semiconductor": {
+    "definition": "a solid substance with conductivity between an insulator and most metals",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "simulation": {
+    "definition": "imitation of a real situation or process for study or training",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "software": {
+    "definition": "the programs and operating information used by a computer",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "solar": {
+    "definition": "relating to or determined by the sun",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "spectrum": {
+    "definition": "a band of colors produced by dispersion; a range of values",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "static": {
+    "definition": "lacking movement or change; electrical charges at rest",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "stellar": {
+    "definition": "relating to a star or stars; featuring stars; excellent",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "substrate": {
+    "definition": "the surface on which an organism grows; an underlying layer",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "supernova": {
+    "definition": "a star that undergoes a massive explosion, becoming extremely bright",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "synapse": {
+    "definition": "a junction between nerve cells where impulses are transmitted",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "synthesis": {
+    "definition": "the combination of elements to form a whole; the production of a compound",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "tensor": {
+    "definition": "a mathematical object describing linear relations; key to deep learning",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "thermal": {
+    "definition": "relating to heat; designed to prevent loss of body heat",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "topology": {
+    "definition": "the study of geometric properties unchanged by deformation",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "transistor": {
+    "definition": "a semiconductor device used to amplify or switch electronic signals",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "transmission": {
+    "definition": "the passing of something from one place to another",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "turbine": {
+    "definition": "a machine with rotating blades driven by steam, gas, or water",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "ultraviolet": {
+    "definition": "electromagnetic radiation with wavelengths shorter than visible light",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "vacuum": {
+    "definition": "a space entirely devoid of matter; an absence of something",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "variable": {
+    "definition": "not consistent; apt to change; a quantity that may assume any value",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "velocity": {
+    "definition": "the speed of something in a given direction",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "viscosity": {
+    "definition": "the state of being thick and sticky; resistance to flow",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "wavelength": {
+    "definition": "the distance between successive crests of a wave",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "wireless": {
+    "definition": "using radio waves rather than wires; lacking physical connections",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "archipelago": {
+    "definition": "a group of islands",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "arid": {
+    "definition": "having little or no rain; too dry to support vegetation",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "canyon": {
+    "definition": "a deep gorge with a river running through it",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "cascade": {
+    "definition": "a waterfall; to fall in a cascade; to pass on to a succession of others",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "cavern": {
+    "definition": "a large cave or underground chamber",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "delta": {
+    "definition": "a triangular alluvial deposit at a river mouth; the fourth letter of the Greek alphabet",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "dune": {
+    "definition": "a mound or ridge of sand formed by wind",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "estuary": {
+    "definition": "the tidal mouth of a large river",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "fjord": {
+    "definition": "a long narrow inlet with steep sides created by a glacier",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "glacier": {
+    "definition": "a slowly moving mass of ice formed by accumulated snow",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "gorge": {
+    "definition": "a narrow valley between hills or mountains with steep rocky walls",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "gust": {
+    "definition": "a brief strong rush of wind; a burst of an emotion",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "hurricane": {
+    "definition": "a tropical cyclone with winds of 74 miles per hour or greater",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "lagoon": {
+    "definition": "a stretch of salt water separated from the sea by a low sandbank",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "latitude": {
+    "definition": "the angular distance of a place north or south of the equator",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "longitude": {
+    "definition": "the angular distance east or west of the meridian",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "mangrove": {
+    "definition": "a tree that grows in tidal shallow water in tropical regions",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "meridian": {
+    "definition": "a circle passing through the poles; relating to noon",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "mesa": {
+    "definition": "an isolated flat-topped hill with steep sides",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "monsoon": {
+    "definition": "a seasonal prevailing wind bringing heavy rains",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "peninsula": {
+    "definition": "a piece of land jutting into the sea almost surrounded by water",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "permafrost": {
+    "definition": "subsoil that remains frozen throughout the year",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "plateau": {
+    "definition": "an area of relatively level high ground",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "reef": {
+    "definition": "a ridge of jagged rock or coral at or near the sea surface",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "savanna": {
+    "definition": "a grassy plain with few trees in tropical regions",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "sediment": {
+    "definition": "matter that settles to the bottom of a liquid",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "seismic": {
+    "definition": "relating to earthquakes or vibrations of the earth",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "strait": {
+    "definition": "a narrow passage of water connecting two seas",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "temperate": {
+    "definition": "relating to mild temperatures; showing moderation",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "terrain": {
+    "definition": "a stretch of land in terms of its physical features",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "tidal": {
+    "definition": "relating to the tides; influenced by tides",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "tundra": {
+    "definition": "a vast flat treeless arctic region with permanently frozen subsoil",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "valley": {
+    "definition": "a low area between hills or mountains",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "vegetation": {
+    "definition": "plants collectively; the plants of a particular area",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "volcano": {
+    "definition": "a mountain with a crater through which lava is ejected",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "watershed": {
+    "definition": "an area of land draining into a river; a turning point",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "accountability": {
+    "definition": "the fact of being responsible for one's actions",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "capitalism": {
+    "definition": "an economic system based on private ownership and free markets",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "census": {
+    "definition": "an official count of a population",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "citizenship": {
+    "definition": "the position of being a citizen with associated rights and duties",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "civil": {
+    "definition": "relating to ordinary citizens; polite and courteous",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "coalition": {
+    "definition": "an alliance formed for combined action",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "collective": {
+    "definition": "done by people acting as a group; a cooperative enterprise",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "colonialism": {
+    "definition": "the practice of acquiring political control over another country",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "commodity": {
+    "definition": "a raw material or agricultural product; something useful",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "communism": {
+    "definition": "a political theory based on common ownership of production",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "constitution": {
+    "definition": "a body of fundamental principles; the basic law of a nation",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "corruption": {
+    "definition": "dishonest conduct by those in power; decay or putrefaction",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "creditor": {
+    "definition": "a person or company to whom money is owed",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "currency": {
+    "definition": "a system of money in general use in a particular country",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "deficit": {
+    "definition": "the amount by which spending exceeds income; a shortfall",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "delegate": {
+    "definition": "to entrust a task to another person; a person sent to represent others",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "democracy": {
+    "definition": "a system of government where citizens vote for representatives",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "despot": {
+    "definition": "a ruler who holds absolute power and uses it oppressively",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "diaspora": {
+    "definition": "people who spread from their homeland to other countries",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "diplomacy": {
+    "definition": "the profession of managing international relations",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "discrimination": {
+    "definition": "the unjust treatment of different categories of people",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "diversity": {
+    "definition": "the state of being diverse; a range of different things",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "dividend": {
+    "definition": "a sum paid to shareholders from a company's profits",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "economy": {
+    "definition": "the state of a country in terms of production and consumption",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "election": {
+    "definition": "a formal process of choosing a person for a public position by voting",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "embargo": {
+    "definition": "an official ban on trade with a particular country",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "emigrate": {
+    "definition": "to leave one's own country to settle in another",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "empathy": {
+    "definition": "the ability to understand and share the feelings of another",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "equity": {
+    "definition": "the quality of being fair; stocks and shares in a company",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "ethnicity": {
+    "definition": "the fact of belonging to a particular ethnic group",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "fascism": {
+    "definition": "an authoritarian and nationalistic system of government",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "federalism": {
+    "definition": "a system of government in which power is divided between central and regional authorities",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "feudalism": {
+    "definition": "the medieval system of holding land in exchange for military service",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "fiscal": {
+    "definition": "relating to government revenue through taxes",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "franchise": {
+    "definition": "an authorization to sell or distribute goods; the right to vote",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "gender": {
+    "definition": "the state of being male, female, or another identity",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "globalization": {
+    "definition": "the process by which businesses become international in scope",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "governance": {
+    "definition": "the action of governing; the manner in which an organization is controlled",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "grassroots": {
+    "definition": "relating to ordinary people as the basis of a political movement",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "gross domestic product": {
+    "definition": "the total value of goods produced and services provided in a country",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "ideology": {
+    "definition": "a system of ideas and ideals forming the basis of a theory or policy",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "immigration": {
+    "definition": "the action of coming to live permanently in a foreign country",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "imperialism": {
+    "definition": "a policy of extending power through colonization",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "incentive": {
+    "definition": "a thing that motivates or encourages someone to do something",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "inequality": {
+    "definition": "difference in size, degree, circumstances, or rights",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "inflation": {
+    "definition": "a general increase in prices and fall in purchasing power",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "institution": {
+    "definition": "an established organization with a particular purpose",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "integration": {
+    "definition": "the action of combining parts into a whole; racial desegregation",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "interest rate": {
+    "definition": "the amount charged for borrowing money, expressed as a percentage",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "jurisdiction": {
+    "definition": "the official power to make legal decisions",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "justice": {
+    "definition": "just behavior or treatment; the quality of being fair and reasonable",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "legislation": {
+    "definition": "laws collectively; the process of making laws",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "liberal": {
+    "definition": "open to new behavior or opinions; favoring individual rights",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "lobbyist": {
+    "definition": "a person who tries to influence legislation on behalf of a group",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "manifesto": {
+    "definition": "a public declaration of policy and aims",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "marginalize": {
+    "definition": "to treat a person or group as insignificant or peripheral",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "monarchy": {
+    "definition": "a form of government with a monarch at the head",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "monopoly": {
+    "definition": "exclusive control of a commodity or service by one company",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "nationalism": {
+    "definition": "identification with one's nation and support of its interests",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "oligarchy": {
+    "definition": "a small group exercising control in a country",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "parliament": {
+    "definition": "a legislative body of government",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "philanthropy": {
+    "definition": "the desire to promote welfare of others; charitable acts",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "policy": {
+    "definition": "a course of action adopted by a government or organization",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "poverty": {
+    "definition": "the state of being extremely poor; the lack of necessities",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "recession": {
+    "definition": "a period of temporary economic decline",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "referendum": {
+    "definition": "a general vote on a single political question",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "refugee": {
+    "definition": "a person who has been forced to leave their country",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "regulation": {
+    "definition": "a rule or directive made and maintained by an authority",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "republic": {
+    "definition": "a state in which supreme power is held by the people",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "revenue": {
+    "definition": "income generated from normal business operations",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "sanction": {
+    "definition": "a penalty for disobeying a rule; official permission",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "secularism": {
+    "definition": "the principle of separation of government from religious institutions",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "segregation": {
+    "definition": "the action of setting apart; enforced separation by race",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "socialism": {
+    "definition": "a political and economic theory of collective ownership",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "sovereignty": {
+    "definition": "supreme power held by a state; self-governing status",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "stereotype": {
+    "definition": "a widely held oversimplified image of a type of person",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "subsidy": {
+    "definition": "a sum of money granted by the government to assist an industry",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "suffrage": {
+    "definition": "the right to vote in political elections",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "surplus": {
+    "definition": "an amount left over when requirements have been met; an excess",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "tariff": {
+    "definition": "a tax on imports or exports",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "taxation": {
+    "definition": "the levying of tax; imposing a tax on someone",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "totalitarian": {
+    "definition": "relating to a system requiring complete subservience to the state",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "trade": {
+    "definition": "the buying and selling of goods and services",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "transparency": {
+    "definition": "the condition of being transparent; openness and accountability",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "treaty": {
+    "definition": "a formally concluded and ratified agreement between countries",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "tribunal": {
+    "definition": "a court of justice; a body established to settle certain disputes",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "tyranny": {
+    "definition": "cruel and oppressive government or rule",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "unemployment": {
+    "definition": "the state of being without a paid job while seeking work",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "veto": {
+    "definition": "a right to reject a decision; to exercise such a right",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "welfare": {
+    "definition": "the health and happiness of a person; financial support from the state",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "allegory": {
+    "definition": "a story representing a deeper meaning through symbolic fiction",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "alliteration": {
+    "definition": "the occurrence of the same letter at the beginning of adjacent words",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "anachronism": {
+    "definition": "a thing belonging to a period other than the one it exists in",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "anthology": {
+    "definition": "a collection of works by various authors",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "architecture": {
+    "definition": "the art of designing and constructing buildings",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "autobiography": {
+    "definition": "an account of one's life written by oneself",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "ballad": {
+    "definition": "a poem or song narrating a story in short stanzas",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "baroque": {
+    "definition": "of an extravagant ornamental style of art and music",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "biography": {
+    "definition": "a detailed description of a person's life",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "bronze": {
+    "definition": "a yellowish-brown alloy of copper and tin; a brownish color",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "calligraphy": {
+    "definition": "decorative handwriting or lettering",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "caricature": {
+    "definition": "a picture or description exaggerating features for comic effect",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "ceramic": {
+    "definition": "relating to pots and other articles made from clay",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "choreography": {
+    "definition": "the art of composing sequences of steps and moves for dance",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "cinematography": {
+    "definition": "the art of photography in filmmaking",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "collage": {
+    "definition": "a piece of art made by sticking various materials onto a surface",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "comedy": {
+    "definition": "a play or film intended to make the audience laugh",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "composition": {
+    "definition": "a piece of music; the way in which a whole is made up",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "contemporary": {
+    "definition": "living or occurring at the same time; belonging to the present",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "critique": {
+    "definition": "a detailed analysis and assessment; to review in detail",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "dialogue": {
+    "definition": "conversation between two or more people in a written work",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "epic": {
+    "definition": "a long narrative poem; heroic or grand in scale",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "fable": {
+    "definition": "a short story conveying a moral, often with animals as characters",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "fantasy": {
+    "definition": "the faculty of imagining impossible things; a genre of fiction",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "fiction": {
+    "definition": "literature describing imaginary events and people",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "folklore": {
+    "definition": "the traditional beliefs, customs, and stories of a community",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "fresco": {
+    "definition": "a painting done on wet plaster on a wall or ceiling",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "genre": {
+    "definition": "a category of artistic work with a particular form or style",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "haiku": {
+    "definition": "a Japanese poem of seventeen syllables in three lines",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "harmony": {
+    "definition": "the combination of simultaneously sounded musical notes",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "heritage": {
+    "definition": "property that is inherited; traditions passed down from predecessors",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "imagery": {
+    "definition": "visually descriptive language in a literary work",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "improvise": {
+    "definition": "to produce or perform something spontaneously; to make from available materials",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "irony": {
+    "definition": "expression of meaning through language signifying the opposite",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "legend": {
+    "definition": "a traditional story; an extremely famous person",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "lyric": {
+    "definition": "a short poem expressing personal feelings; relating to singing",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "metaphor": {
+    "definition": "a figure of speech applying a non-literal word to an object",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "modernism": {
+    "definition": "a movement breaking from classical and traditional forms",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "mosaic": {
+    "definition": "a picture made of small colored pieces; consisting of a variety",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "motif": {
+    "definition": "a distinctive feature recurring in an artistic work",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "mythology": {
+    "definition": "a collection of myths of a particular tradition",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "narrative": {
+    "definition": "a spoken or written account of connected events; a story",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "orchestra": {
+    "definition": "a large group of musicians playing various instruments",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "perspective": {
+    "definition": "a particular attitude or point of view; art technique showing depth",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "plot": {
+    "definition": "the main events of a story; a plan made secretly",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "prose": {
+    "definition": "written or spoken language in its ordinary form",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "protagonist": {
+    "definition": "the leading character in a story or drama",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "renaissance": {
+    "definition": "a revival of art and literature; the European cultural rebirth",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "rhythm": {
+    "definition": "a strong regular repeated pattern of sound or movement",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "satire": {
+    "definition": "the use of humor to expose and criticize people's stupidity",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "sculpture": {
+    "definition": "the art of making figures or objects in three dimensions",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "setting": {
+    "definition": "the place and time where a story takes place",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "silhouette": {
+    "definition": "the dark shape and outline of someone seen against a light background",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "soliloquy": {
+    "definition": "an act of speaking thoughts aloud when alone or regardless of hearers",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "sonnet": {
+    "definition": "a poem of fourteen lines with a specific rhyme scheme",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "surrealism": {
+    "definition": "a movement in art and literature to express the subconscious mind",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "symphony": {
+    "definition": "an elaborate musical composition for an orchestra",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "theme": {
+    "definition": "a subject of a talk or piece of writing; a recurring melody",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "tragedy": {
+    "definition": "an event causing great suffering; a serious drama with an unhappy ending",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "verse": {
+    "definition": "writing arranged with metrical rhythm; a paragraph of a song",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "adrenaline": {
+    "definition": "a hormone secreted in response to stress, preparing the body for action",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "antibiotic": {
+    "definition": "a medicine that inhibits the growth of or destroys microorganisms",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "artery": {
+    "definition": "a blood vessel carrying blood from the heart to the body",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "cardiac": {
+    "definition": "relating to the heart",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "cholesterol": {
+    "definition": "a fatty substance found in blood; high levels can cause heart disease",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "cognitive": {
+    "definition": "relating to cognition; connected with the mental process of knowing",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "deficiency": {
+    "definition": "a lack or shortage of something essential",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "diagnose": {
+    "definition": "to identify the nature of an illness by examination of symptoms",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "diaphragm": {
+    "definition": "a dome-shaped muscle separating the chest from the abdomen",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "dna": {
+    "definition": "deoxyribonucleic acid; the molecule carrying genetic instructions",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "endorphin": {
+    "definition": "a hormone released to relieve pain and induce feelings of pleasure",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "epidemic": {
+    "definition": "a widespread occurrence of an infectious disease in a community",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "gastric": {
+    "definition": "relating to the stomach",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "immune": {
+    "definition": "resistant to a particular infection; free from an obligation",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "inflammation": {
+    "definition": "a localized physical condition with heat, swelling, redness, and pain",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "lymph": {
+    "definition": "a colorless fluid containing white blood cells bathing the tissues",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "neurology": {
+    "definition": "the branch of medicine dealing with the nervous system",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "nutrition": {
+    "definition": "the process of providing food for health and growth",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "organ": {
+    "definition": "a part of an organism with a specific function",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "pandemic": {
+    "definition": "a disease prevalent over a whole country or the world",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "pathogen": {
+    "definition": "a bacterium, virus, or microorganism causing disease",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "physiology": {
+    "definition": "the branch of biology dealing with normal functions of organisms",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "placebo": {
+    "definition": "a substance with no pharmacological effect given as a control",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "prognosis": {
+    "definition": "the likely course of a medical condition; a forecast",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "quarantine": {
+    "definition": "isolation imposed to prevent spread of disease",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "respiratory": {
+    "definition": "relating to breathing or the organs used in breathing",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "syndrome": {
+    "definition": "a set of medical signs and symptoms correlated with each other",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "symptom": {
+    "definition": "a physical or mental sign indicating a condition of disease",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "vaccine": {
+    "definition": "a preparation administered to stimulate immunity to a disease",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "vein": {
+    "definition": "a blood vessel carrying blood toward the heart",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "virus": {
+    "definition": "an infective agent replicating only inside living cells",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "vitamin": {
+    "definition": "any of a group of organic compounds essential for normal growth",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "altruism": {
+    "definition": "unselfishness; concern for others' welfare over one's own",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "cognition": {
+    "definition": "the mental action of acquiring knowledge through thought",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "consciousness": {
+    "definition": "the state of being aware of and responsive to one's surroundings",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "deduction": {
+    "definition": "the inference of a conclusion from premises; logical reasoning",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "determinism": {
+    "definition": "the doctrine that events are determined by previously existing causes",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "dialectic": {
+    "definition": "the art of investigating truth by discussion; opposing forces",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "empiricism": {
+    "definition": "the theory that knowledge is derived only from experience",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "epistemology": {
+    "definition": "the branch of philosophy concerned with knowledge and belief",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "ethics": {
+    "definition": "moral principles that govern behavior; the branch studying them",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "existentialism": {
+    "definition": "the philosophy emphasizing individual existence and free choice",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "fallible": {
+    "definition": "capable of making mistakes; not perfect",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "free will": {
+    "definition": "the power to act without constraint; the ability to choose",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "hubris": {
+    "definition": "excessive pride or self-confidence leading to nemesis",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "humanism": {
+    "definition": "a rationalistic outlook valuing human beings and reason",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "identity": {
+    "definition": "the fact of being who one is; the characteristics defining a person",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "introspection": {
+    "definition": "the examination of one's own thoughts and feelings",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "karma": {
+    "definition": "the sum of actions in a life determining future life; destiny",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "logic": {
+    "definition": "reasoning conducted according to strict principles of validity",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "materialism": {
+    "definition": "a tendency to consider material possessions as important",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "meditation": {
+    "definition": "focusing the mind for relaxation or spiritual development",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "morality": {
+    "definition": "principles concerning the distinction between right and wrong",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "nihilism": {
+    "definition": "the rejection of all religious and moral principles; nothingness",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "perception": {
+    "definition": "the ability to see and understand; the way something is regarded",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "phenomenology": {
+    "definition": "the science of phenomena as distinct from science of being",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "pragmatism": {
+    "definition": "an approach evaluating theories by their practical consequences",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "psyche": {
+    "definition": "the human soul, mind, or spirit",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "psychology": {
+    "definition": "the scientific study of the human mind and its functions",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "rationalism": {
+    "definition": "the practice of treating reason as the basis of belief",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "stoicism": {
+    "definition": "enduring pain without complaint; an ancient school of philosophy",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "subconscious": {
+    "definition": "the part of the mind not fully conscious but influencing actions",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "utilitarianism": {
+    "definition": "the doctrine that actions are right if they benefit the majority",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "asynchronous": {
+    "definition": "not occurring at the same time; operations that do not block the caller",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "authentication": {
+    "definition": "the process of verifying the identity of a user or device",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "availability": {
+    "definition": "the degree to which a system is operational when needed",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "bottleneck": {
+    "definition": "a point of congestion causing the overall system to slow down",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "broadcast": {
+    "definition": "to transmit data to all devices in a network simultaneously",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "checksum": {
+    "definition": "a calculated value used to detect errors in transmitted data",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "client": {
+    "definition": "a computer or program that accesses services from a server",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "cluster": {
+    "definition": "a group of servers working together as a single system",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "concurrency": {
+    "definition": "the ability of different parts of a program to execute out of order",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "consistency": {
+    "definition": "ensuring all nodes in a distributed system have the same data",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "container": {
+    "definition": "a lightweight isolated environment for running applications",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "deadlock": {
+    "definition": "a situation where two threads are each waiting for the other to release a lock",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "deployment": {
+    "definition": "the process of releasing software to a production environment",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "distributed": {
+    "definition": "spread across multiple computers connected via a network",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "failover": {
+    "definition": "switching to a backup system when the primary system fails",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "firewall": {
+    "definition": "a network security system controlling incoming and outgoing traffic",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "gateway": {
+    "definition": "a network node serving as an entry point to another network",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "idempotent": {
+    "definition": "denoting an operation producing the same result however many times applied",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "load balancer": {
+    "definition": "a device distributing network traffic across multiple servers",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "microservice": {
+    "definition": "an architectural style structuring an application as small services",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "middleware": {
+    "definition": "software acting as a bridge between an operating system and applications",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "migration": {
+    "definition": "moving data or software from one system to another",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "multicast": {
+    "definition": "transmitting data to a specific group of destination computers",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "multithreading": {
+    "definition": "a technique allowing multiple threads to share a single CPU",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "network": {
+    "definition": "a group of interconnected computers sharing resources",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "node": {
+    "definition": "a point in a network; a single machine in a distributed system",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "packet": {
+    "definition": "a unit of data formatted for transmission over a network",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "partition": {
+    "definition": "a division of a database; separation of network nodes",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "payload": {
+    "definition": "the data carried in a transmission excluding headers",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "peer": {
+    "definition": "another computer at the same level in a network hierarchy",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "pipeline": {
+    "definition": "a chain of processing elements where the output feeds the next",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "port": {
+    "definition": "a communication endpoint identified by a number",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "proxy": {
+    "definition": "a server acting as an intermediary between clients and servers",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "queue": {
+    "definition": "a line of data items waiting to be processed; a first-in first-out structure",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "race condition": {
+    "definition": "a flaw where a system behaves unpredictably due to timing of operations",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "redundancy": {
+    "definition": "duplication of critical components to increase reliability",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "replication": {
+    "definition": "storing copies of data on multiple machines for reliability",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "scalability": {
+    "definition": "the ability of a system to handle growing amounts of work",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "semaphore": {
+    "definition": "a variable used to control access to a shared resource",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
   },
   "server": {
-    "definition": "a computer or program that provides services to other computers",
-    "added_at": "2026-03-31T10:56:30.703806+00:00",
-    "updated_at": "2026-03-31T10:56:30.703806+00:00",
-    "last_searched_at": "2026-04-06T19:50:04.617492+00:00"
+    "definition": "a computer providing data or services to other computers over a network",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
   },
-  "thread": {
-    "definition": "a sequence of instructions that can run concurrently with others",
-    "added_at": "2026-03-31T10:56:30.703810+00:00",
-    "updated_at": "2026-03-31T10:56:30.703810+00:00",
-    "last_searched_at": "2026-04-06T19:50:04.622262+00:00"
+  "sharding": {
+    "definition": "partitioning a database so each part is stored on a different server",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
   },
   "socket": {
     "definition": "an endpoint for sending and receiving data across a network",
-    "added_at": "2026-03-31T10:56:30.703812+00:00",
-    "updated_at": "2026-03-31T10:56:30.703812+00:00",
-    "last_searched_at": "2026-04-06T19:50:04.620155+00:00"
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
   },
-  "mutex": {
-    "definition": "a lock that prevents multiple threads from accessing a shared resource simultaneously",
-    "added_at": "2026-03-31T10:56:30.703814+00:00",
-    "updated_at": "2026-03-31T10:56:30.703814+00:00",
-    "last_searched_at": "2026-04-06T19:50:04.602519+00:00"
+  "synchronization": {
+    "definition": "coordinating simultaneous processes to avoid conflicts",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "throughput": {
+    "definition": "the amount of material processed in a given time period",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "timeout": {
+    "definition": "a cancellation of an operation due to it taking too long",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "token": {
+    "definition": "a symbol used to control access; a unit in a data stream",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "transaction": {
+    "definition": "a unit of work performed within a database management system",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "unicast": {
+    "definition": "transmission from one sender to one receiver over a network",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "uptime": {
+    "definition": "the time during which a machine is in operation",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "virtualization": {
+    "definition": "creating a virtual version of hardware, storage, or network",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "vulnerability": {
+    "definition": "a weakness in a system that can be exploited by an attacker",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "watchdog": {
+    "definition": "a timer resetting a system if software fails to respond in time",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "webhook": {
+    "definition": "a method of augmenting a web application with custom callbacks",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "workload": {
+    "definition": "the amount of work to be done by a machine or system",
+    "added_at": "2026-04-07T02:36:36.071378+00:00",
+    "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
   }
 }

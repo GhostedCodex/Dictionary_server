@@ -2,18 +2,17 @@
 HTTP server that bridges the browser and the dictionary TCP server.
 
 Serves index.html and exposes a small REST API:
-    GET  /api/entries          → list all entries
-    GET  /api/search?word=cat  → search for a word
-    POST /api/add              → add a word  (JSON body: {word, definition})
-    POST /api/delete           → delete a word (JSON body: {word})
-
-Every API handler opens a fresh TCP connection to the dictionary server,
-sends the appropriate command, reads the response, then closes the socket.
+    GET  /api/entries          -> list all entries with full metadata + timestamps
+    GET  /api/search?word=cat  -> search for a word (updates last_searched_at)
+    POST /api/add              -> add a word  (JSON body: {word, definition})
+    POST /api/delete           -> delete a word (JSON body: {word})
+    GET  /api/info             -> server LAN IP and ports
 """
 
 from config import (
     BUFFER_SIZE, HOST, PORT,
     UI_HOST, UI_PORT,
+    DICT_FILE,
     RESP_NOT_FOUND, RESP_OK, RESP_BUSY, RESP_ERROR,
 )
 import json
@@ -29,15 +28,14 @@ sys.path.insert(0, os.path.join(
 
 UI_DIR = os.path.dirname(os.path.abspath(__file__))
 
-# Resolved at startup — overridable for testing
 _DICT_HOST = HOST
 _DICT_PORT = PORT
 
 
-# TCP helper
+# ── TCP helper ────────────────────────────────────────────────────────────────
 
 def tcp_send(command: str) -> str:
-    """Open a connection to the dictionary server, send one command, return the response."""
+    """Send one command to the dictionary server, return the stripped response."""
     with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
         s.settimeout(5)
         try:
@@ -52,14 +50,14 @@ def tcp_send(command: str) -> str:
             return f"{RESP_ERROR}:{e}"
 
 
-# Request handler
+# ── Request handler ───────────────────────────────────────────────────────────
 
 class UIRequestHandler(BaseHTTPRequestHandler):
 
     def log_message(self, format, *args):
         print(f"[WebUI] {self.address_string()} — {format % args}")
 
-    # Routing
+    # ── Routing ───────────────────────────────────────────────────────────────
 
     def do_GET(self):
         parsed = urlparse(self.path)
@@ -72,6 +70,8 @@ class UIRequestHandler(BaseHTTPRequestHandler):
             self._api_entries()
         elif path == '/api/search':
             self._api_search(params)
+        elif path == '/api/info':
+            self._api_info()
         else:
             self._respond(404, {'error': 'not found'})
 
@@ -86,25 +86,64 @@ class UIRequestHandler(BaseHTTPRequestHandler):
         else:
             self._respond(404, {'error': 'not found'})
 
-    #  API handlers
+    # ── API handlers ──────────────────────────────────────────────────────────
+
+    def _api_info(self):
+        """Return the server's LAN IP so the browser can display the connect address."""
+        try:
+            s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
+            s.connect(("8.8.8.8", 80))
+            ip = s.getsockname()[0]
+            s.close()
+        except OSError:
+            ip = "unknown"
+        self._respond(200, {
+            'server_ip': ip,
+            'dict_port': _DICT_PORT,
+            'ui_port':   self.server.server_address[1],
+        })
 
     def _api_entries(self):
-        raw = tcp_send('LIST')
+        """
+        Return all entries with full metadata including timestamps.
 
-        if raw.startswith(RESP_ERROR):
-            self._respond(503, {'error': raw})
-            return
-        if raw == 'EMPTY':
-            self._respond(200, {'entries': []})
-            return
+        Reads directly from the JSON file rather than going through TCP,
+        because the TCP SEARCH command only returns the definition string —
+        it has no way to also return the three timestamps.
+        """
+        try:
+            if not os.path.exists(DICT_FILE):
+                self._respond(200, {'entries': []})
+                return
 
-        words = [w.strip() for w in raw.split(',') if w.strip()]
-        entries = []
-        for word in words:
-            defn = tcp_send(f'SEARCH:{word}')
-            entries.append({'word': word, 'definition': defn})
+            with open(DICT_FILE, 'r') as f:
+                data = json.load(f)
 
-        self._respond(200, {'entries': entries})
+            entries = []
+            for word, entry in sorted(data.items()):
+                if isinstance(entry, dict):
+                    entries.append({
+                        'word':             word,
+                        'definition':       entry.get('definition', ''),
+                        'added_at':         entry.get('added_at'),
+                        'updated_at':       entry.get('updated_at'),
+                        'last_searched_at': entry.get('last_searched_at'),
+                    })
+                else:
+                    # Legacy flat format: value is just a string
+                    entries.append({
+                        'word':             word,
+                        'definition':       entry,
+                        'added_at':         None,
+                        'updated_at':       None,
+                        'last_searched_at': None,
+                    })
+
+            self._respond(200, {'entries': entries})
+
+        except (json.JSONDecodeError, OSError) as e:
+            self._respond(
+                503, {'error': f'Could not read dictionary file: {e}'})
 
     def _api_search(self, params: dict):
         word = params.get('word', [''])[0].strip()
@@ -112,6 +151,7 @@ class UIRequestHandler(BaseHTTPRequestHandler):
             self._respond(400, {'error': 'word parameter required'})
             return
 
+        # Go through TCP so last_searched_at gets updated in the dictionary
         result = tcp_send(f'SEARCH:{word}')
 
         if result.startswith(RESP_ERROR):
@@ -158,7 +198,7 @@ class UIRequestHandler(BaseHTTPRequestHandler):
         else:
             self._respond(500, {'error': result})
 
-    # Helpers
+    # ── Helpers ───────────────────────────────────────────────────────────────
 
     def _serve_file(self, filename: str, content_type: str):
         filepath = os.path.join(UI_DIR, filename)
@@ -192,7 +232,7 @@ class UIRequestHandler(BaseHTTPRequestHandler):
         self.wfile.write(body)
 
 
-# Entry point
+# ── Entry point ───────────────────────────────────────────────────────────────
 
 def main(dict_host: str = HOST, dict_port: int = PORT,
          ui_host: str = UI_HOST, ui_port: int = UI_PORT):
