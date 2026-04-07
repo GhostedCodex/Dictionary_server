@@ -159,7 +159,7 @@
     "definition": "to state emphatically or publicly; to offer emotional support",
     "added_at": "2026-04-07T02:36:36.071378+00:00",
     "updated_at": "2026-04-07T02:36:36.071378+00:00",
-    "last_searched_at": null
+    "last_searched_at": "2026-04-07T12:14:25.189492+00:00"
   },
   "affluent": {
     "definition": "having a great deal of money; wealthy",
@@ -4449,6 +4449,24 @@
     "definition": "the amount of work to be done by a machine or system",
     "added_at": "2026-04-07T02:36:36.071378+00:00",
     "updated_at": "2026-04-07T02:36:36.071378+00:00",
+    "last_searched_at": null
+  },
+  "computer": {
+    "definition": "A computer is an electronic device that accepts raw data (input), processes it, stores it, and produces information (output)",
+    "added_at": "2026-04-07T12:15:20.889250+00:00",
+    "updated_at": "2026-04-07T12:15:20.889250+00:00",
+    "last_searched_at": "2026-04-07T12:16:42.042072+00:00"
+  },
+  "lexicon": {
+    "definition": "the vocabulary of a person, language, or branch of knowledge.\n\"the size of the English lexicon\"\na dictionary, especially of Greek, Hebrew, Syriac, or Arabic.",
+    "added_at": "2026-04-07T12:17:52.110496+00:00",
+    "updated_at": "2026-04-07T12:17:52.110496+00:00",
+    "last_searched_at": "2026-04-07T12:17:54.340400+00:00"
+  },
+  "breach": {
+    "definition": "1.\nan act of breaking or failing to observe a law, agreement, or code of conduct.\n2.\na gap in a wall, barrier, or defence, especially one made by an attacking army.",
+    "added_at": "2026-04-07T12:19:42.377180+00:00",
+    "updated_at": "2026-04-07T12:19:42.377180+00:00",
     "last_searched_at": null
   }
 }

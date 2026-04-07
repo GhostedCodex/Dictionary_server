@@ -1,0 +1,10 @@
+{
+  "bennin": {
+    "password": "f84bcfc19ac874c99c3902ec47615747dd3d17d113650991ff748b3d85162b17",
+    "role": "admin"
+  },
+  "kojo": {
+    "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+    "role": "user"
+  }
+}
